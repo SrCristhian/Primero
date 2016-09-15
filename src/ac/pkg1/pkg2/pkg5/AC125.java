@@ -11,6 +11,6 @@ public class AC125 {
     public static void main(String[] args) {
         File archivo = new File("C:\\Users\\2dama\\Desktop\\AC 2.2.5.txt");
         File fichero = new File("C:\\Users\\2dama\\Desktop\\AC 2.2.5");
-        archivo.
+        
     }
 }
